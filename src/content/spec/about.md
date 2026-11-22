@@ -1,9 +1,5 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于
 
-::github{repo="saicaca/fuwari"}
+这里记录客户端开发、学习笔记、项目实践与难题排查。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+目前主要关注 Android、Flutter、iOS，以及 AI Agent 与客户端技术的结合。博客文章以 Markdown 持续整理，既记录完成的功能，也记录解决问题的过程。
